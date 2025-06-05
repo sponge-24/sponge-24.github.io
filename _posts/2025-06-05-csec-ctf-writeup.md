@@ -3,6 +3,7 @@ title: CSEC CTF 2025 writeup
 date: 2025-06-05
 categories: [CTF]
 tags: [writeups]     # TAG names should always be lowercase
+author: main
 ---
 
 
